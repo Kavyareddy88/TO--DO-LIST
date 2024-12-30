@@ -13,11 +13,12 @@
 
 ### *Features*:
 
-* User-friendly
-* Local Storage Supported
-* Displays current Date and Time
-* Responsive, on all devices
-* Themes: Users can choose among different themes.
+*Easy-to-use interface
+*Local storage functionality
+*Displays real-time date and time
+*Fully responsive design for all devices
+*Customizable themes: Users can choose their preferred theme
+
 
 ### *Features to be added*:
 
