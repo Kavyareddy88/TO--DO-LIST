@@ -13,14 +13,18 @@
 
 ### *Features*:
 
-*Easy-to-use interface
-*Local storage functionality
-*Displays real-time date and time
-*Fully responsive design for all devices
-*Customizable themes: Users can choose their preferred theme
+* Easy-to-use interface
+
+* Local storage functionality
+
+* Displays real-time date and time
+
+* Fully responsive design for all devices
+
+* Customizable themes: Users can choose their preferred theme
 
 
-### *Features to be added*:
+### *Future Enhancements:*:
 
 * SubTasks: Adding subtasks to the enlisted tasks, could be an option.
 * Neumorphic Interface: For the to-do's so, it looks more appealing, Can use SASS (.scss file)
